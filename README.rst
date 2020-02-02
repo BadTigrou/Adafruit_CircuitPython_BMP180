@@ -21,6 +21,12 @@ Installing from PyPI
 
 Need to create a package on PYPi for easy install.
 
+.. code-block:: bash
+	
+	git clone https://github.com/BadTigrou/Adafruit_CircuitPython_BMP180.git
+	cd Adafruit_CircuitPython_BMP180
+	sudo python3 setup.py install
+
 Usage Example
 =============
 
